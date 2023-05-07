@@ -1,0 +1,51 @@
+body{
+    background-color:#936c6c ;
+    color: rgb(20, 19, 19);
+}
+.navbar{
+    height:20%;
+    position: static;
+}
+.logo{
+    height: 40px;
+    width: 250px;
+    position: absolute;
+
+}
+.one{
+    position: absolute;
+    margin-left:15%;
+
+    height: 40px;
+    width: 250px;
+
+}
+
+.two{
+    position: absolute;
+    margin-bottom:0%;
+    margin-left: 25%;
+    width: 250px;
+    height: 40px;
+}
+.pricing-column{
+    height: 300px;
+    width: 300px;
+    padding: 3% 2%;
+  }
+  .new{
+    margin-left:40%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  .btn1{
+
+    border-radius: 12px;
+    background-color: black;
+    color:white;
+  }
+.card{
+    background-color:white;
+    color:black;
+    border: 5px solid black;
+}
